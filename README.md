@@ -10,10 +10,15 @@
   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tihynihy&theme=highcontrast&show_icons=true&count_private=true)
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=tihynihy&theme=highcontrast&show_icons=true&count_private=true)
   
   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tihynihy)
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tihynihy)
+  
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+![Badges](https://github-profile-trophy.vercel.app/?username={tihynihy})
