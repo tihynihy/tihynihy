@@ -6,4 +6,4 @@
 - 📫 How to reach me:  
 [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-jusovi%C4%87-16788a226/)
 
-  https://github-readme-stats.vercel.app/api?username={tihynihy}
+![Github stats](https://github-readme-stats.vercel.app/api?username=tihynihy&theme=highcontrast&show_icons=true&count_private=true)
