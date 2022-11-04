@@ -6,6 +6,7 @@
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me:  
+
 [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-jusovi%C4%87-16788a226/)
   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
