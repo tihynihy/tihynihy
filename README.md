@@ -1,22 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="250" height="250"/>
+  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="300" height="250"/>
 </div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/arman-hadzigrahic-a83010201/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UClCknUgnsMka4YlSp3XI2cQ">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 ---
 - 🔭 Languages
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
