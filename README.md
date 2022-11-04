@@ -2,8 +2,8 @@
 ![banner](https://excelcoders.com/wp-content/uploads/2022/07/android.gif)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 I’m currently working on 
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+- 🔭 Languages
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)(https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 🌱 I’m currently learning    
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------
