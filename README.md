@@ -1,4 +1,4 @@
-  ![gif from appslure]([https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif](https://dunesfactory.com/wp-content/uploads/2020/04/mobile_app_developement.gif](https://excelcoders.com/wp-content/uploads/2022/07/android.gif))
+  ![gif from appslure](https://excelcoders.com/wp-content/uploads/2022/07/android.gif)
    
 - 🔭 I’m currently working on ... Flutter 
 - 🌱 I’m currently learning ... Flutter
