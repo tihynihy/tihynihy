@@ -1,8 +1,9 @@
   ![gif from appslure](https://excelcoders.com/wp-content/uploads/2022/07/android.gif)
    
-- 🔭 I’m currently working on ... Flutter 
-- 🌱 I’m currently learning  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- 🔭 I’m currently working on  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- 🌱 I’m currently learning    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:  
+- ![LinkedIn]
 
-
+[![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-jusovi%C4%87-16788a226/)
