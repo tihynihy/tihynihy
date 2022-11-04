@@ -1,7 +1,6 @@
  <div id="header" align="center">
-  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="100" height="100"/>
+  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="250" height="250"/>
 </div>
- 
 - 🔭 I’m currently working on 
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 - 🌱 I’m currently learning    
