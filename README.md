@@ -2,7 +2,9 @@
 <div id="header" align="center">
   <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="300" height="250"/>
 </div>
+
 ---
+
 - 🔭 Languages
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ---
