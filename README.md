@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/>
+  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,10 +16,6 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
----
-
-![banner](https://excelcoders.com/wp-content/uploads/2022/07/android.gif)
 
 ---
 - 🔭 Languages
