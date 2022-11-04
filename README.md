@@ -1,4 +1,4 @@
-   Hi there 👋
+   print("Hello World 👋, I'm tihynihy")
    
 - 🔭 I’m currently working on ... Flutter 
 - 🌱 I’m currently learning ... Flutter
