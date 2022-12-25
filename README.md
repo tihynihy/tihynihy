@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="300" height="250"/>
+  <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif" width="300" height="300"/>
 </div>
 
 ---
