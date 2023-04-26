@@ -1,7 +1,7 @@
 
 <div id="header" align="left" style="display: inline-block">
   <img src="https://media3.giphy.com/media/IGfnmF45dRRCKBLxoi/giphy.gif" width="250" height="300"/>
-  <img src="https://media2.giphy.com/media/MOS0e7uuQiD2oB54PZ/200w.gif?cid=6c09b952c0jxsje3d1cwy5hh5vvwmuzce3colerjt5zv4wbd&rid=200w.gif&ct=s" width="250" height="300"/>
+  <img src="https://64.media.tumblr.com/99b506e8b050ff3b09a8656d78bbe437/5fc70f57dcb26c66-39/s500x750/63b15e1b7d26193949aa147e63c16480abc525d5.gif" width="250" height="300"/>
 </div>
 
 ---
