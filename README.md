@@ -1,6 +1,6 @@
 
-<div id="header" align="center" style="display: inline-block">
-  <img src="https://media3.giphy.com/media/IGfnmF45dRRCKBLxoi/giphy.gif" width="250" height="300"/>
+<div id="header" align="left" style="display: inline-block">
+  <img src="https://media3.giphy.com/media/IGfnmF45dRRCKBLxoi/giphy.gif" width="100" height="130"/>
 </div>
 
 ---
