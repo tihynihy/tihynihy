@@ -5,7 +5,7 @@
 
 ----
 
- 🔭  Tech Stack:
+ 🔭  Tech Experience:
 
 
 <div align="center" style="flex-diretcion: row;">
