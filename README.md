@@ -5,7 +5,7 @@
 
 ----
 
- 🔭  Tech Experience:
+ 🔭 Languages and Tools:
 
 
 <div align="center" style="flex-diretcion: row;">
