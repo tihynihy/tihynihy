@@ -1,7 +1,8 @@
 
-<div id="header" align="left" style="display: inline-block">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tihynihy/tihynihy/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/tihynihy/tihynihy/master/waves.svg" width="100%" height="150">
 
 ----
 
