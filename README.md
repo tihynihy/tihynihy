@@ -41,6 +41,8 @@ Welcome to my Github profile 👋️
 </div>
 
 
+👀 <a href="https://tihynihy.github.io/personal-portfolio/">Personal Website</a>
+
 📫  How to reach me:  
 
  [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-jusovi%C4%87-16788a226/)
