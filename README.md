@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Nihad
-
 <h2 align="center">
 Welcome to my Github profile 👋️
 </h2>	
