@@ -17,28 +17,10 @@ I'm a passionate developer who loves creating beautiful and functional applicati
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tihynihy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
-</div>
-
-## 🎮 Fun Fact
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/74/6d/7b/746d7bfd493255f5b7950eb97d485300.gif" width="250" height="200" alt="Yasuo" style="border-radius: 10px;" />
-  <br>
-  <p><em>When I'm not coding, I'm playing League of Legends! ⚔️</em></p>
-</div>
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-jusovi%C4%87-16788a226/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihad.jusovich@gmail.com)
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tihynihy&style=flat-square&color=6366F1" alt="Profile Views" />
-</div>
 
