@@ -3,10 +3,6 @@ Welcome to my Github profile 👋️
 </h2>	
 <img src="https://raw.githubusercontent.com/tihynihy/tihynihy/master/waves.svg" width="100%" height="150">
 
-## 🚀 About Me
-
-I'm a passionate developer who loves creating beautiful and functional applications. I specialize in cross-platform mobile development and modern web technologies, always striving to deliver exceptional user experiences.
-
 ## 🛠️ Tech Stack
 
 <div align="center">
