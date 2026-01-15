@@ -3,7 +3,7 @@ Welcome to my Github profile 👋️
 </h2>	
 <img src="https://raw.githubusercontent.com/tihynihy/tihynihy/master/waves.svg" width="100%" height="150">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stackk
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
