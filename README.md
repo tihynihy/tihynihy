@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
 Welcome to my Github profile 👋️
-</h2>	
+</h3>	
 <img src="https://raw.githubusercontent.com/tihynihy/tihynihy/master/waves.svg" width="100%" height="150">
 
 ## 🛠️ Tech Stackk
