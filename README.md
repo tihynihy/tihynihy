@@ -1,5 +1,5 @@
 <h3 align="center">
-Welcome to my Github profile 👋️
+Welcome 👋️
 </h3>	
 <img src="https://raw.githubusercontent.com/tihynihy/tihynihy/master/waves.svg" width="100%" height="150">
 
